@@ -1,0 +1,2 @@
+Future<dynamic> main() async {
+}
