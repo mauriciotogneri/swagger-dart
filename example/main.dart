@@ -1,7 +1,7 @@
 import 'package:swagger/swagger.dart';
 
 Future<dynamic> main() async {
-  final swagger = Swagger(
+  final Swagger swagger = Swagger(
     title: 'Backend',
     version: '1.0.0',
     schemes: 'https',
